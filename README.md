@@ -1,2 +1,3 @@
 # JesusEmilioSantillanFuentes_3A
-m_poo
+3-A mod. class
+Programacion Orientada a Objetos
